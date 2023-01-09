@@ -1,6 +1,7 @@
 window.addEventListener("DOMContentLoaded", (event) => {
   const sheetDataHandler = (sheetData) => {
     console.log("sheet data: ", sheetData);
+    //ADD YOUR CODE TO WORK WITH sheetData ARRAY OF OBJECTS HERE
   };
 
   // --==== QUERY EXAMPLES ====--
